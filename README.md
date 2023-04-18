@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **react**
 
-- 📫 How to reach me **192666@unsaa.edu.pe**
+- 📫 How to reach me **192666@unsaac.edu.pe**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
