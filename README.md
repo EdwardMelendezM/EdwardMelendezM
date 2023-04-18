@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Edward</h1>
 <h3 align="center">A passionate frontend and backend developer from Peru</h3>
 
-- 🔭 I’m currently working on **Arbnb Clone**
+- 🔭 I’m currently working on **Arbnb Clone and API Tesla Shop with Postgres**
 
-- 🌱 I’m currently learning **Nextjs and Nestjs**
+- 🌱 I’m currently learning **Nextjs and Nestjs frameworks**
 
-- 👯 I’m looking to collaborate on **S.A.C. Multipartes**
+- 👯 I’m looking to collaborate on **S.A.C. AutoMultiPartes**
 
 - 🤝 I’m looking for help with **good team**
 
