@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Edward</h1>
 <h3 align="center">A passionate frontend and backend developer from Peru</h3>
 
-<image align="left" width="47%" height="250px" src="http://github-readme-streak-stats.herokuapp.com?user=EdwardMelendezM&theme=tokyonight&locale=es&mode=weekly&dates=EB5454)](https://git.io/streak-stats" />
-<image align="left" width="47%" height="250px" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs" />
+<image align="left" width="47%" height="200px" src="http://github-readme-streak-stats.herokuapp.com?user=EdwardMelendezM&theme=tokyonight&locale=es&mode=weekly&dates=EB5454)](https://git.io/streak-stats" />
+<image align="left" width="47%" height="200px" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs" />
 
 - 🔭 I’m currently working on **Arbnb Clone and API Tesla Shop with Postgres**
 
