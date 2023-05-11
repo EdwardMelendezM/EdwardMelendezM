@@ -3,10 +3,10 @@
 ## 👋 Hello! 
 Software engineer with 1+ years of experience. I have worked on medium-sized personal projects in the field of web, mobile, and API development. I am also experienced in working both remotely and in-office environments. I always strive to take ownership of the project and deliver results faster than expected.
 
+## 📚 Writing
+Besides developing, I also write on [Linkedin.to](https://www.linkedin.com/in/edward-melendez-588b6b254/)
 
 
-## 💻 Interesting Contributions
-[![Aribnb](https://github-readme-stats.vercel.app/api/pin/?username=airbnb&repo=javascript&theme=dark&show_owner=true)](https://github.com/airbnb/javascript/pull/1693)
 
 ## 🛠️ Technologies & Tools
 It wouldn't make sense to post every tool and language I've ever worked with, but here are some I am most comfortable with at the moment.
