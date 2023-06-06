@@ -1,4 +1,4 @@
-[![Group-1.png](https://i.postimg.cc/Tw5sZhsb/Group-1.png)](https://postimg.cc/YGk8F2M2)
+[![Group-1.png](https://i.postimg.cc/mDRm7rP6/Group-1.png)](https://postimg.cc/B8Y504cx)
 
 ## 👋 Hello! 
 Software engineer with 1+ years of experience. I have worked on medium-sized personal projects in the field of web, mobile, and API development. I am also experienced in working both remotely and in-office environments. I always strive to take ownership of the project and deliver results faster than expected.
