@@ -11,16 +11,14 @@ Besides developing, I also write on [Linkedin.to](https://www.linkedin.com/in/ed
 ## 🛠️ Technologies & Tools
 It wouldn't make sense to post every tool and language I've ever worked with, but here are some I am most comfortable with at the moment.
 
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational&logo=javascript)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&color=informational&logo=react)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&color=informational)
-![](https://img.shields.io/badge/Code-Vue-informational?style=flat&color=informational&logo=vue.js)
-![](https://img.shields.io/badge/Code-EcmaScript-informational?style=flat&color=informational)
-![](https://img.shields.io/badge/Code-Node-informational?style=flat&color=informational&logo=node.js)
-![](https://img.shields.io/badge/Tool-Webpack-informational?style=flat&color=warning&logo=webpack)
-![](https://img.shields.io/badge/Tool-Jest-informational?style=flat&color=warning&logo=jest)
-![](https://img.shields.io/badge/Tool-SCSS-informational?style=flat&color=warning&logo=sass)
+
+![](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![](https://img.shields.io/badge/kubernetes-326CE5?&style=plastic&logo=kubernetes&logoColor=white)
+![](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform)
+![](https://img.shields.io/badge/golang-00ADD8?&style=plastic&logo=go&logoColor=white)
 ![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&color=warning&logo=docker)
+
+
 
 ## 📊 Statistics
   <image align="left" width="47%" height="200px" src="http://github-readme-streak-stats.herokuapp.com?user=EdwardMelendezM&theme=tokyonight&locale=es&mode=weekly&dates=EB5454)](https://git.io/streak-stats" />
