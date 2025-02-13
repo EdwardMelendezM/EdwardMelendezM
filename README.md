@@ -21,7 +21,5 @@ It wouldn't make sense to post every tool and language I've ever worked with, bu
 
 
 ## 📊 Statistics
-  <image align="left" width="47%" height="200px" src="http://github-readme-streak-stats.herokuapp.com?user=EdwardMelendezM&theme=tokyonight&locale=es&mode=weekly&dates=EB5454)](https://git.io/streak-stats" />
-  <image align="left" width="47%" height="200px" src="https://github-readme-stats.vercel.app/api?username=EdwardMelendezM&hide=contribs" />
-  <br/><br/><br/><br/><br/><br/><br/><br/><br/>
-  <hr/>
+  
+  <image align="left" width="50%" height="200px" src="https://github-readme-stats.vercel.app/api?username=EdwardMelendezM&hide=contribs" />
